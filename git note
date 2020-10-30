@@ -1,0 +1,5 @@
+git clone (paste) // first time
+git pull origin 远程分支名
+git add .
+git commit -m 'explain'
+git push (origin master)
